@@ -1,6 +1,6 @@
 {
   "name": "bubbleup-plugin-test-mocha-buba",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Buba plugin for the Mocha Bubbleup plugin",
   "main": "bubbleup-plugin-test-mocha-buba/index.js",
   "files": [
